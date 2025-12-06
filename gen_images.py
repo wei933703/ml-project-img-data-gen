@@ -107,20 +107,28 @@ def generate_images_from_prompts(
                 ).images[0]
 
         image.save(out_path)
+    
+    print("[Done] Image generation completed.")
 
 
 def main():
     HEIGHT = 512
     WIDTH = 512
-    csv_path = "prompts.csv"
-    output_dir = "outputs"
 
     device = get_device()
     print(f"Using device: {device}")
 
     pipe = load_sd15_pipeline(device=device)
-    prompts = read_prompts_csv(csv_path)
-    generate_images_from_prompts(pipe, prompts, output_dir=output_dir, height=HEIGHT, width=WIDTH)
+
+    normal_csv_path = os.path.join("prompts", "normal_prompts.csv")
+    normal_output_dir = os.path.join("outputs", "normal")
+    prompts = read_prompts_csv(normal_csv_path)
+    generate_images_from_prompts(pipe, prompts, output_dir=normal_output_dir, height=HEIGHT, width=WIDTH)
+
+    modified_csv_path = os.path.join("prompts", "modified_prompts.csv")
+    modified_output_dir = os.path.join("outputs", "modified")
+    prompts = read_prompts_csv(modified_csv_path)
+    generate_images_from_prompts(pipe, prompts, output_dir=modified_output_dir, height=HEIGHT, width=WIDTH)
 
 
 if __name__ == "__main__":

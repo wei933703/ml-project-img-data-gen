@@ -120,14 +120,13 @@ def score_clip(
 def score_hps(
     prompt: str,
     image_path: str,
-    hps_version: str = "v2.1",
 ) -> float:
     """
     使用 HPSv2 的 score 函數。
     hpsv2.score 可以接受單一影像路徑或列表，回傳評分結果 [oai_citation:7‡PyPI](https://pypi.org/project/hpsv2/)
     """
     # 這裡簡化為單張圖片
-    result = hpsv2.score(image_path, prompt, hps_version=hps_version)
+    result = hpsv2.score(image_path, prompt, hps_version="v2.1")
     
     print(f"    HPSv2 score: {result[0] if isinstance(result, (list, tuple)) else result}")
 
@@ -145,7 +144,6 @@ def score_all_images(
     prompts_csv: str = "prompts.csv",
     images_dir: str = "outputs",
     output_csv: str = "scores.csv",
-    hps_version: str = "v2.1",
 ) -> None:
     """
     對所有 (id, prompt) 的圖片進行 ImageReward、CLIP、HPSv2 評分，並輸出到 CSV。
@@ -190,7 +188,7 @@ def score_all_images(
             raise e
 
         try:
-            hps_score = score_hps(prompt, image_path, hps_version=hps_version)
+            hps_score = score_hps(prompt, image_path)
         except Exception as e:
             print(f"  [Error] HPSv2 failed for {prompt_id}: {e}")
             hps_score = float("nan")
@@ -219,10 +217,15 @@ def score_all_images(
 
 def main():
     score_all_images(
-        prompts_csv="prompts.csv",
-        images_dir="outputs",
-        output_csv="scores.csv",
-        hps_version="v2.1",
+        prompts_csv=os.path.join("prompts", "normal_prompts.csv"),
+        images_dir=os.path.join("outputs", "normal"),
+        output_csv="scores_normal.csv",
+    )
+
+    score_all_images(
+        prompts_csv=os.path.join("prompts", "normal_prompts.csv"),
+        images_dir=os.path.join("outputs", "modified"),
+        output_csv="scores_modified.csv",
     )
 
 

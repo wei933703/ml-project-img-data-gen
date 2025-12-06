@@ -1,4 +1,6 @@
 import csv
+import os
+
 from typing import List, Dict, Any
 
 
@@ -69,8 +71,20 @@ def display_scores_table(records: List[Dict[str, Any]]) -> None:
 
 
 def main():
-    records = read_scores_csv("scores.csv")
-    display_scores_table(records)
+    normal_scores_path = os.path.join("scores", "normal.csv")
+    try:
+        normal_records = read_scores_csv(normal_scores_path)
+        display_scores_table(normal_records)
+        print("=" * 100)
+    except FileNotFoundError:
+        print(f"File '{normal_scores_path}' is not found. Display skipped.")
+    
+    modified_scores_path = os.path.join("scores", "modified.csv")
+    try:
+        modified_records = read_scores_csv(modified_scores_path)
+        display_scores_table(modified_records)
+    except FileNotFoundError:
+        print(f"File '{modified_scores_path}' is not found. Display skipped.")
 
 
 if __name__ == "__main__":

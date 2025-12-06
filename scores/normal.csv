@@ -1,0 +1,501 @@
+id,prompt,image_path,image_reward,clip,hps
+1,"A majestic lion with a crown of stars, deep space background, nebulae, hyperrealistic, octane render",outputs/normal/1.png,1.3315401077270508,27.51380729675293,0.2890625
+2,"An ancient, moss-covered library hidden in a forest, shafts of light filtering through the canopy, fantasy, matte painting, detailed",outputs/normal/2.png,-1.3987030982971191,24.44241714477539,0.26025390625
+3,"Cyberpunk city street at night, neon signs reflecting on wet pavement, flying vehicles, Blade Runner aesthetic, cinematic lighting",outputs/normal/3.png,0.24951651692390442,29.436603546142578,0.296142578125
+4,"A tranquil Japanese garden with a koi pond and a red bridge, cherry blossoms in full bloom, watercolor style, peaceful",outputs/normal/4.png,1.122604489326477,32.13477325439453,0.28125
+5,"Portrait of a futuristic female astronaut, intricate details on the helmet visor showing a reflection of a distant galaxy, sci-fi, photorealistic",outputs/normal/5.png,-0.3750414252281189,21.567041397094727,0.2489013671875
+6,"A giant, gentle robot tending to a small, glowing flower in a post-apocalyptic wasteland, emotional, concept art, by Simon Stalenhag",outputs/normal/6.png,-0.4217294156551361,33.60882568359375,0.22509765625
+7,"Underwater city of Atlantis, bioluminescent creatures swimming between grand, Grecian-style buildings, fantasy, epic scale, by James Gurney",outputs/normal/7.png,0.4154929220676422,29.660266876220703,0.2783203125
+8,"A cozy, cluttered artist's studio filled with canvases and sculptures, warm morning light, impressionistic style, by Monet",outputs/normal/8.png,-0.6218376755714417,31.565792083740234,0.206787109375
+9,"Steampunk-inspired mechanical dragon breathing fire made of clockwork gears, intricate cogs and brass, detailed illustration",outputs/normal/9.png,0.5731245279312134,36.51145553588867,0.282958984375
+10,"A lone wanderer in a vast, snowy mountain landscape, dramatic clouds, sense of scale, atmospheric, style of Caspar David Friedrich",outputs/normal/10.png,1.1536673307418823,32.12522888183594,0.224365234375
+11,"A crystal palace in the clouds, serene, volumetric lighting, fantasy, by James Gurney",outputs/normal/11.png,1.8052165508270264,31.53022575378418,0.2216796875
+12,"A haunted mansion on a hill during a thunderstorm, gothic, atmospheric, style of Zdzislaw Beksinski",outputs/normal/12.png,1.2636239528656006,27.777511596679688,0.267578125
+13,"A group of adventurers around a campfire in a forgotten temple, shafts of light filtering through, concept art",outputs/normal/13.png,1.2260993719100952,30.713003158569336,0.26220703125
+14,"A secret agent in a tuxedo on a neon-lit street at night, cinematic lighting, photorealistic",outputs/normal/14.png,1.36781907081604,30.7045841217041,0.251953125
+15,"A spaceship exploring a massive, colorful nebula, deep space, epic scale, 4K, octane render",outputs/normal/15.png,-0.5083962678909302,25.762676239013672,0.2529296875
+16,"A serene alien landscape with two suns setting, sci-fi, matte painting, tranquil",outputs/normal/16.png,-0.94801926612854,26.920928955078125,0.16796875
+17,"A bustling medieval market with a knight in shining armor, detailed illustration, vibrant",outputs/normal/17.png,-0.8164390921592712,30.777090072631836,0.2509765625
+18,"A sorceress casting a spell inside a crystal cave, bioluminescent creatures, fantasy, by Greg Rutkowski",outputs/normal/18.png,1.140132188796997,29.184064865112305,0.25390625
+19,"A steampunk airship flying over a post-apocalyptic wasteland, detailed illustration, style of Simon Stalenhag",outputs/normal/19.png,1.3374019861221313,30.280736923217773,0.28857421875
+20,"A hidden waterfall in an enchanted forest, ethereal glow, watercolor style, peaceful",outputs/normal/20.png,0.4810234606266022,35.10604476928711,0.279541015625
+21,"Portrait of a wise old wizard with a crown of stars, hyperrealistic, intricate details",outputs/normal/21.png,1.7382750511169434,31.210826873779297,0.284423828125
+22,"A tranquil Japanese garden during a solar eclipse, cherry blossoms, dramatic clouds, atmospheric",outputs/normal/22.png,-1.4687074422836304,26.925457000732422,0.276611328125
+23,"Cyberpunk city street with flying vehicles, Blade Runner aesthetic, unreal engine 5, by H.R. Giger",outputs/normal/23.png,-0.14724837243556976,28.925504684448242,0.289794921875
+24,"An ancient, moss-covered library on a floating island, fantasy, matte painting, sense of scale",outputs/normal/24.png,0.61662358045578,32.6502799987793,0.281005859375
+25,"A majestic lion in a vast, snowy mountain landscape, hyperrealistic, dramatic lighting",outputs/normal/25.png,1.7465523481369019,26.092914581298828,0.30029296875
+26,"Underwater city of Atlantis during a storm, bioluminescent creatures, epic scale, by James Gurney",outputs/normal/26.png,-0.36891528964042664,27.096111297607422,0.2376708984375
+27,"A giant, gentle robot walking through a field of glowing flowers, emotional, concept art",outputs/normal/27.png,0.10487377643585205,36.388126373291016,0.275390625
+28,"A pirate ship battling a kraken on a stormy sea, cinematic lighting, detailed illustration",outputs/normal/28.png,0.6945160627365112,27.114667892456055,0.268798828125
+29,"A futuristic astronaut discovering an alien artifact on a desert planet, sci-fi, photorealistic",outputs/normal/29.png,1.034376859664917,25.695341110229492,0.20849609375
+30,"A cozy, cluttered artist's studio with a view of a floating island, warm morning light, impressionistic style",outputs/normal/30.png,-0.23787043988704681,35.609405517578125,0.2646484375
+31,"A mechanical dragon perched atop a gothic cathedral, intricate cogs and brass, steampunk, atmospheric",outputs/normal/31.png,-0.14354093372821808,36.1522216796875,0.260009765625
+32,"A lone wanderer looking at a crystal palace in the clouds, sense of scale, fantasy, by Caspar David Friedrich",outputs/normal/32.png,0.4865747392177582,29.582124710083008,0.220458984375
+33,"A knight in shining armor battling a fire-breathing dragon, epic, detailed illustration, by Greg Rutkowski",outputs/normal/33.png,0.6093416810035706,26.824687957763672,0.25341796875
+34,"A serene alien landscape under a starry sky with three moons, tranquil, sci-fi, matte painting",outputs/normal/34.png,0.22015325725078583,27.457887649536133,0.2066650390625
+35,"A sorceress in a white dress in a dark, haunted forest, ethereal glow, gothic, fantasy",outputs/normal/35.png,1.3462761640548706,30.519121170043945,0.2418212890625
+36,"Cyberpunk alleyway with noodle stands and neon signs, Blade Runner aesthetic, cinematic, octane render",outputs/normal/36.png,1.2774778604507446,28.694194793701172,0.30615234375
+37,"A spaceship fleet preparing for battle in front of a black hole, deep space, epic scale, 4K",outputs/normal/37.png,-0.12033969163894653,23.307170867919922,0.2100830078125
+38,"A hidden waterfall that flows upwards into the sky, surrealism, fantasy, detailed illustration",outputs/normal/38.png,1.5258896350860596,31.458585739135742,0.2880859375
+39,"Portrait of a steampunk inventor covered in grease and cogs, photorealistic, intricate details",outputs/normal/39.png,0.9165343046188354,28.815174102783203,0.29638671875
+40,"A tranquil Japanese garden with a red bridge, but in a post-apocalyptic, overgrown setting, concept art",outputs/normal/40.png,1.3721380233764648,29.18478012084961,0.26708984375
+41,"A giant, ancient turtle with a city on its back, fantasy, epic scale, by James Gurney",outputs/normal/41.png,1.845142126083374,33.74176788330078,0.29931640625
+42,"A lone astronaut sitting on the edge of a crater on Mars, watching a blue sunset, sci-fi, atmospheric",outputs/normal/42.png,-2.2253293991088867,25.69265365600586,0.149169921875
+43,"A bustling medieval city from an aerial view, detailed illustration, sense of scale",outputs/normal/43.png,0.7670722603797913,28.21385955810547,0.26806640625
+44,"An underwater cave filled with glowing crystals and ancient ruins, bioluminescent, fantasy",outputs/normal/44.png,-0.2847367227077484,29.925840377807617,0.25341796875
+45,"A majestic phoenix rising from ashes, fire and embers, hyperrealistic, trending on ArtStation",outputs/normal/45.png,0.9825853705406189,30.622678756713867,0.233642578125
+46,"A secret agent escaping on a motorcycle through a crowded Moroccan market, cinematic action shot",outputs/normal/46.png,0.10746630281209946,30.214696884155273,0.258544921875
+47,"A floating island with a single, ancient tree whose leaves are made of gold, fantasy, matte painting",outputs/normal/47.png,0.025704551488161087,34.371246337890625,0.238037109375
+48,"A dark fantasy knight with glowing red eyes, standing in a field of skulls, gothic, by Zdzislaw Beksinski",outputs/normal/48.png,0.38257187604904175,32.464412689208984,0.2401123046875
+49,"A beautiful elven city built into the side of a mountain, fantasy, epic scale, detailed illustration",outputs/normal/49.png,0.8436008095741272,28.834754943847656,0.26953125
+50,"A robot samurai dueling in a bamboo forest, sci-fi, cinematic lighting, detailed",outputs/normal/50.png,0.9078885316848755,34.7184944152832,0.30615234375
+51,"An Art Nouveau portrait of a forest spirit, intricate filigree details, elegant, by Alphonse Mucha",outputs/normal/51.png,-1.1029945611953735,28.849544525146484,0.2152099609375
+52,"Brutalist architecture on a desolate alien planet, stark shadows, monolithic, sci-fi concept art",outputs/normal/52.png,0.01534031331539154,30.4017333984375,0.1756591796875
+53,"A high-speed chase between two futuristic hovercrafts through a dense jungle, dynamic motion blur, cinematic",outputs/normal/53.png,1.2876157760620117,32.40260314941406,0.2493896484375
+54,"Pixel art of a cozy campfire scene in a snowy forest, 16-bit, retro gaming aesthetic, warm glow",outputs/normal/54.png,0.6766178011894226,34.26384353637695,0.215576171875
+55,"Ukiyo-e style depiction of a samurai facing a mythical Oni demon, traditional Japanese woodblock print, by Hokusai",outputs/normal/55.png,-1.074068546295166,27.819881439208984,0.212158203125
+56,"A colossal statue half-buried in a sand dune, desert landscape, sense of forgotten history, style of Syd Mead",outputs/normal/56.png,-2.247615337371826,30.570480346679688,0.2125244140625
+57,"A bioluminescent mushroom forest at night, glowing spores, fantasy, ethereal, trending on ArtStation",outputs/normal/57.png,0.9487387537956238,27.41457748413086,0.269775390625
+58,"A 1920s New Orleans jazz club, smoky atmosphere, vibrant, realistic, characters in period clothing",outputs/normal/58.png,0.5882011651992798,27.368677139282227,0.2607421875
+59,"A feeling of loneliness, depicted as a single lighthouse against a stormy sea, atmospheric, oil painting",outputs/normal/59.png,0.7371780276298523,31.419313430786133,0.26708984375
+60,"A detailed cross-section of a futuristic city, showing layers of traffic and architecture, technical illustration",outputs/normal/60.png,-0.6380535364151001,25.435579299926758,0.1986083984375
+61,"A glass-blown sculpture of a dragon, translucent, intricate details, studio lighting, photorealistic",outputs/normal/61.png,0.8776260614395142,33.557228088378906,0.2958984375
+62,"A minimalist black and white photograph of a single, twisted tree in a field of fog, high contrast",outputs/normal/62.png,1.352478265762329,29.645252227783203,0.29345703125
+63,"A battle between a giant robot and a kaiju in a burning city, epic scale, cinematic, style of Pacific Rim",outputs/normal/63.png,1.6435054540634155,28.75434684753418,0.3203125
+64,"A lush, overgrown greenhouse filled with exotic, glowing plants, fantasy, peaceful, detailed",outputs/normal/64.png,0.2561497092247009,29.15373992919922,0.302734375
+65,"A surrealist painting of a clock melting over a floating island, style of Salvador Dali",outputs/normal/65.png,1.1943058967590332,33.441165924072266,0.2271728515625
+66,"A Viking longship sailing through a fjord, dramatic mountains, atmospheric, matte painting",outputs/normal/66.png,0.8405293822288513,34.403099060058594,0.294921875
+67,"An elegant ballroom scene in a vampire's castle, gothic architecture, characters in Victorian dress, cinematic lighting",outputs/normal/67.png,-0.7290440797805786,30.484312057495117,0.1636962890625
+68,"A close-up portrait of a tribal warrior with intricate face paint, hyperrealistic, powerful expression",outputs/normal/68.png,1.1121795177459717,32.032318115234375,0.28857421875
+69,"A city made of crystal and light, built by an advanced civilization, sci-fi, fantasy, glowing",outputs/normal/69.png,1.2763556241989136,32.181610107421875,0.288330078125
+70,"A lone cyberpunk detective standing in the rain, looking at a holographic advertisement, noir aesthetic",outputs/normal/70.png,1.5112977027893066,27.768234252929688,0.265625
+71,"An abstract explosion of color and shapes, representing a burst of creativity, digital art, vibrant",outputs/normal/71.png,0.14577148854732513,24.968265533447266,0.242919921875
+72,"A peaceful scene of a monk meditating in a temple high in the Himalayas, serene, atmospheric",outputs/normal/72.png,1.758539080619812,30.64225959777832,0.24462890625
+73,"A steampunk inventor's workshop, cluttered with strange gadgets and blueprints, warm, detailed illustration",outputs/normal/73.png,0.4228898584842682,35.391910552978516,0.2763671875
+74,"A photorealistic image of an astronaut planting a flag on a planet with a purple sky, sci-fi",outputs/normal/74.png,0.3785763382911682,30.203289031982422,0.203369140625
+75,"A whimsical watercolor painting of animals having a tea party in a forest, children's book illustration style",outputs/normal/75.png,1.51027512550354,35.150794982910156,0.25830078125
+76,"A massive, ancient library where the bookshelves stretch into the sky, sense of infinite knowledge, fantasy",outputs/normal/76.png,0.8646370768547058,28.594249725341797,0.306640625
+77,"A dynamic action shot of a superhero landing in a city street, causing the ground to crack, comic book style",outputs/normal/77.png,1.5923326015472412,29.017765045166016,0.31640625
+78,"A tranquil scene of rice paddies in Vietnam at sunrise, god rays, atmospheric, photorealistic",outputs/normal/78.png,1.429902195930481,31.125614166259766,0.3017578125
+79,"A dark fantasy landscape with twisted trees and a blood-red moon, horror, style of Dark Souls",outputs/normal/79.png,1.62881338596344,31.053075790405273,0.306396484375
+80,"A beautiful portrait of a woman made entirely of flowers and leaves, surreal, intricate, art nouveau",outputs/normal/80.png,1.9535107612609863,30.992862701416016,0.342041015625
+81,"A futuristic racing circuit in the clouds, sleek vehicles, high speed, concept art, style of F-Zero",outputs/normal/81.png,1.4432348012924194,35.33935546875,0.2347412109375
+82,"A medieval alchemist's laboratory, glowing potions, mysterious symbols, detailed, fantasy",outputs/normal/82.png,0.5139679312705994,34.035770416259766,0.246337890625
+83,"A giant, friendly creature made of moss and stone, helping a small child, emotional, concept art",outputs/normal/83.png,0.35125261545181274,34.14435577392578,0.255126953125
+84,"A noir detective office, 1940s style, light streaming through blinds, high contrast, black and white",outputs/normal/84.png,-0.28955399990081787,26.477474212646484,0.244384765625
+85,"An epic fantasy battle with thousands of soldiers, aerial view, sense of scale, detailed illustration",outputs/normal/85.png,1.329916000366211,34.26374053955078,0.26220703125
+86,"A serene underwater scene with a coral reef and colorful fish, photorealistic, vibrant",outputs/normal/86.png,0.4120991826057434,30.910755157470703,0.3125
+87,"A portrait of a king and queen from a lost civilization, wearing intricate golden armor, fantasy",outputs/normal/87.png,-0.5906291007995605,32.185123443603516,0.2462158203125
+88,"A post-apocalyptic survivor scavenging in a ruined supermarket, atmospheric, style of The Last of Us",outputs/normal/88.png,-0.8535853028297424,27.326702117919922,0.283447265625
+89,"A beautiful landscape painting of the English countryside, style of Thomas Kinkade, peaceful, warm light",outputs/normal/89.png,0.6722121238708496,28.048664093017578,0.30322265625
+90,"A spaceship graveyard in deep space, derelict ships, eerie, sci-fi, concept art",outputs/normal/90.png,-0.1789218783378601,28.589847564697266,0.23876953125
+91,"A close-up of a dragon's eye, reflecting a fiery landscape, hyperrealistic, detailed",outputs/normal/91.png,-1.2529245615005493,34.43339920043945,0.2135009765625
+92,"A city street scene in 1950s New York, classic cars, characters in period dress, photorealistic",outputs/normal/92.png,-0.4294434189796448,30.54094696044922,0.2236328125
+93,"A magical portal opening in the middle of a forest, glowing with cosmic energy, fantasy",outputs/normal/93.png,1.4866926670074463,26.210922241210938,0.27001953125
+94,"A warrior princess riding a giant wolf, dynamic pose, fantasy, detailed illustration, by Greg Rutkowski",outputs/normal/94.png,0.12528996169567108,34.17091369628906,0.256591796875
+95,"A floating market in a futuristic city, boats and stalls hovering over canals, vibrant, detailed",outputs/normal/95.png,0.6680431365966797,29.800113677978516,0.3115234375
+96,"A surreal landscape where the ground is a chessboard, fantasy, minimalist",outputs/normal/96.png,0.17527104914188385,30.350976943969727,0.216552734375
+97,"An ancient tree with a door carved into its trunk, glowing from within, enchanted, fantasy",outputs/normal/97.png,0.32540667057037354,28.32285499572754,0.28369140625
+98,"A high-fashion model with futuristic clothing and makeup, studio portrait, photorealistic",outputs/normal/98.png,-1.1009204387664795,26.480674743652344,0.234619140625
+99,"A scene of celebration in a medieval village, festivals, dancing, vibrant, detailed illustration",outputs/normal/99.png,1.3204323053359985,34.10145950317383,0.310791015625
+100,"A lone gunslinger in a duel at high noon in the wild west, cinematic, dramatic tension",outputs/normal/100.png,-0.10893350839614868,26.103120803833008,0.2484130859375
+101,"A forgotten Art Deco city discovered deep in the Amazon jungle, overgrown with vines, fantasy concept art",outputs/normal/101.png,-0.3124576807022095,29.362503051757812,0.2822265625
+102,"A photorealistic portrait of a grizzled old sea captain with a pipe, detailed wrinkles, nautical background",outputs/normal/102.png,-0.7782678008079529,30.947696685791016,0.2216796875
+103,"A high-tech stealth bomber flying over a futuristic city at night, sci-fi, style of Syd Mead",outputs/normal/103.png,1.6260533332824707,31.909597396850586,0.267578125
+104,"A serene painting of a Japanese Zen garden with raked sand and bonsai trees, Ukiyo-e style",outputs/normal/104.png,-1.2535834312438965,30.68399429321289,0.1876220703125
+105,"A battle-worn knight with a glowing sword, standing in a dark, misty forest, fantasy, atmospheric",outputs/normal/105.png,-0.09347978234291077,25.387144088745117,0.26171875
+106,"A bustling cyberpunk market filled with androids and exotic alien goods, neon lighting, detailed",outputs/normal/106.png,0.20471125841140747,26.574199676513672,0.298583984375
+107,"A minimalist architectural photo of a brutalist concrete building, high contrast, black and white",outputs/normal/107.png,-0.40285301208496094,29.350439071655273,0.27392578125
+108,"A surrealist image of a grand piano made of melting ice, in a desert, style of Salvador Dali",outputs/normal/108.png,0.32474666833877563,31.975784301757812,0.231689453125
+109,"A cozy hobbit-hole with a round door, warm light spilling out, fantasy, detailed illustration",outputs/normal/109.png,1.573510766029358,32.79254150390625,0.319580078125
+110,"An astronaut discovering a vast, glowing crystal cave on a distant moon, sci-fi, sense of wonder",outputs/normal/110.png,-0.6261910200119019,25.670808792114258,0.1959228515625
+111,"A warrior queen on a throne made of dragon bones, powerful, fantasy, by Greg Rutkowski",outputs/normal/111.png,-0.1167338639497757,26.673603057861328,0.2476806640625
+112,"A 1930s noir detective inspecting a clue in a dimly lit alley, rain-slicked streets, cinematic",outputs/normal/112.png,1.3573945760726929,27.634788513183594,0.260498046875
+113,"A beautiful elven queen with intricate silver filigree in her hair, Art Nouveau, by Alphonse Mucha",outputs/normal/113.png,1.734813928604126,31.63536262512207,0.2939453125
+114,"A colossal ancient robot half-submerged in the ocean, covered in barnacles, post-apocalyptic",outputs/normal/114.png,1.2508381605148315,33.65515899658203,0.2447509765625
+115,"A dynamic painting of a cowboy on a galloping horse, wild west, motion blur, style of Frederic Remington",outputs/normal/115.png,1.4434001445770264,27.24456214904785,0.273193359375
+116,"A hidden library inside a giant, ancient tree, shelves filled with glowing books, fantasy",outputs/normal/116.png,-1.2671301364898682,25.86500358581543,0.262451171875
+117,"A futuristic soldier in powered armor, standing in a war-torn city, sci-fi, concept art",outputs/normal/117.png,1.0887250900268555,32.271812438964844,0.24951171875
+118,"A peaceful watercolor of a Venetian canal at sunset, gondolas, warm colors",outputs/normal/118.png,0.918994128704071,30.70053482055664,0.2958984375
+119,"A dark sorcerer summoning a demon from a fiery portal, horror, fantasy, detailed illustration",outputs/normal/119.png,0.7837679982185364,28.071229934692383,0.1943359375
+120,"A photorealistic image of a classic American muscle car on a desert highway, vintage look",outputs/normal/120.png,1.2006551027297974,32.182403564453125,0.2529296875
+121,"A steampunk city with brass airships and clockwork towers, intricate details, fantasy",outputs/normal/121.png,-0.002887049224227667,29.730701446533203,0.277099609375
+122,"A tranquil scene of a Buddhist monk meditating before a giant statue of Buddha, atmospheric",outputs/normal/122.png,1.1429128646850586,24.760622024536133,0.273193359375
+123,"A high-fashion model on a runway, wearing an avant-garde outfit made of light, futuristic",outputs/normal/123.png,0.11048201471567154,29.021900177001953,0.1962890625
+124,"A giant, mythical griffin soaring through dramatic clouds, fantasy, epic scale",outputs/normal/124.png,1.7595354318618774,31.211685180664062,0.264892578125
+125,"A pixel art animation of a knight fighting a slime in a dungeon, 8-bit, retro RPG style",outputs/normal/125.png,-1.672991156578064,23.70508575439453,0.1905517578125
+126,"A detailed illustration of a medieval castle under siege, catapults, armies, historical",outputs/normal/126.png,0.7456176280975342,32.40666198730469,0.279296875
+127,"A lone scientist working in a high-tech laboratory, surrounded by holographic interfaces, sci-fi",outputs/normal/127.png,0.08654436469078064,27.821386337280273,0.2227783203125
+128,"A beautiful painting of a field of sunflowers, impressionist style, by Monet",outputs/normal/128.png,0.42196372151374817,32.41240310668945,0.265869140625
+129,"A post-apocalyptic scavenger with a cybernetic arm, exploring a ruined city, concept art",outputs/normal/129.png,0.8987669348716736,29.707998275756836,0.2005615234375
+130,"A majestic white wolf howling at a full moon in a snowy forest, atmospheric, fantasy",outputs/normal/130.png,-0.24022522568702698,28.431087493896484,0.29833984375
+131,"A city in a giant glass dome at the bottom of the ocean, bioluminescent, sci-fi, fantasy",outputs/normal/131.png,-0.8650573492050171,25.44037628173828,0.2025146484375
+132,"A portrait of a 1920s flapper girl at a glamorous party, Art Deco style",outputs/normal/132.png,-0.37253302335739136,30.159896850585938,0.181884765625
+133,"A massive spaceship entering a wormhole, bending space and time, sci-fi, abstract",outputs/normal/133.png,-1.2948956489562988,26.836894989013672,0.20068359375
+134,"A fantasy cartographer drawing a map in a candle-lit study, detailed, warm lighting",outputs/normal/134.png,1.124794602394104,29.118282318115234,0.1971435546875
+135,"A photorealistic close-up of a hummingbird in flight, capturing the motion of its wings",outputs/normal/135.png,1.4091591835021973,28.524869918823242,0.25146484375
+136,"A dark, gothic cathedral with towering spires and gargoyles, moody, atmospheric",outputs/normal/136.png,-0.15291304886341095,28.08975601196289,0.2352294921875
+137,"A group of adventurers traversing a narrow rope bridge over a deep chasm, fantasy, dynamic",outputs/normal/137.png,0.7571698427200317,29.710378646850586,0.294189453125
+138,"A sleek, minimalist kitchen in a futuristic apartment, clean lines, sci-fi interior design",outputs/normal/138.png,0.20261886715888977,29.79781723022461,0.2169189453125
+139,"A powerful barbarian warrior with a giant axe, standing on a pile of skulls, fantasy, by Frank Frazetta",outputs/normal/139.png,0.6947477459907532,27.86245346069336,0.273193359375
+140,A whimsical painting of a town where all the buildings are shaped like musical instruments,outputs/normal/140.png,-0.9681864380836487,27.920011520385742,0.254150390625
+141,"A cyberpunk hacker jacked into the matrix, streams of code flowing around them, sci-fi",outputs/normal/141.png,0.0705689936876297,24.143604278564453,0.277587890625
+142,"A serene image of a canoe on a perfectly still lake, reflecting the mountains, photorealistic",outputs/normal/142.png,1.7357821464538574,31.006288528442383,0.27099609375
+143,"A mad scientist's laboratory, bubbling beakers, electrical arcs, vintage horror style",outputs/normal/143.png,-1.0134611129760742,31.36424446105957,0.2099609375
+144,"A beautiful mermaid with iridescent scales, sitting on a rock, fantasy, detailed illustration",outputs/normal/144.png,0.3208456039428711,31.000757217407227,0.25927734375
+145,"A Roman legion marching through a forest, historical, detailed armor, cinematic",outputs/normal/145.png,1.482482671737671,32.48289108276367,0.315673828125
+146,"A futuristic vertical farm inside a skyscraper, lush greenery, sci-fi, sustainable future",outputs/normal/146.png,0.13651131093502045,29.458288192749023,0.25927734375
+147,"A knight kneeling before a king and queen in a grand throne room, medieval, fantasy",outputs/normal/147.png,-1.5488392114639282,28.48365592956543,0.2027587890625
+148,"A surreal landscape where the sky is filled with floating whales, fantasy, dreamlike",outputs/normal/148.png,-0.8133808970451355,28.993331909179688,0.215087890625
+149,"A detailed architectural drawing of a futuristic skyscraper, blueprint style",outputs/normal/149.png,-1.0953723192214966,29.027790069580078,0.19482421875
+150,"A warrior fighting a hydra, fantasy, epic battle, style of Greek mythology",outputs/normal/150.png,1.3180607557296753,30.26786994934082,0.260498046875
+151,"A photorealistic render of a vintage typewriter, close-up on the keys, nostalgic",outputs/normal/151.png,0.47301599383354187,25.240421295166016,0.2293701171875
+152,"A secret agent rappelling down the side of a glass skyscraper at night, action scene",outputs/normal/152.png,0.4665437638759613,32.420204162597656,0.284912109375
+153,"A beautiful geisha in a kimono, walking through a bamboo forest, traditional Japanese art",outputs/normal/153.png,1.0669565200805664,31.914945602416992,0.27392578125
+154,"A post-apocalyptic city reclaimed by nature, vines covering skyscrapers, concept art",outputs/normal/154.png,1.1607389450073242,27.273597717285156,0.257080078125
+155,"A wizard's duel, casting powerful spells of fire and ice, fantasy, dynamic",outputs/normal/155.png,1.4068646430969238,31.90210723876953,0.267578125
+156,"A tranquil tropical beach with white sand and turquoise water, photorealistic, paradise",outputs/normal/156.png,0.7047977447509766,25.253456115722656,0.257568359375
+157,"A steampunk submarine exploring a deep-sea trench, bioluminescent creatures, Jules Verne style",outputs/normal/157.png,0.8256334662437439,35.312496185302734,0.3017578125
+158,"A portrait of a Native American chief in full headdress, powerful, historical, detailed",outputs/normal/158.png,1.432999610900879,28.492170333862305,0.290771484375
+159,"A city floating in the sky, held up by giant crystals, fantasy, sci-fi",outputs/normal/159.png,0.3766270875930786,29.650291442871094,0.26953125
+160,"A close-up of a bee on a flower, macro photography, detailed, vibrant colors",outputs/normal/160.png,0.8159557580947876,26.441431045532227,0.284912109375
+161,"A haunted forest with twisted, grasping trees and glowing eyes in the dark, horror",outputs/normal/161.png,-1.4777374267578125,25.111251831054688,0.2138671875
+162,"A grand library with a spiral staircase, filled with endless books, fantasy, academic",outputs/normal/162.png,0.18585970997810364,25.476730346679688,0.28369140625
+163,"A samurai warrior in full armor, meditating under a cherry blossom tree, historical, peaceful",outputs/normal/163.png,1.6492103338241577,32.339332580566406,0.286865234375
+164,"A futuristic police car in a high-speed chase, sci-fi, Blade Runner aesthetic",outputs/normal/164.png,-0.49433833360671997,27.115097045898438,0.235595703125
+165,"A painting of a Dutch windmill in a field of tulips, traditional, vibrant colors",outputs/normal/165.png,1.709954857826233,35.620361328125,0.31396484375
+166,"A giant, ancient golem made of stone and vines, awakening in a forest, fantasy",outputs/normal/166.png,-1.6556181907653809,24.018165588378906,0.263671875
+167,"A glamorous movie premiere in 1950s Hollywood, classic cars, paparazzi, vintage",outputs/normal/167.png,0.4240857660770416,31.26523780822754,0.2430419921875
+168,"A lone astronaut on an alien planet with strange, towering flora, sci-fi, exploration",outputs/normal/168.png,0.6130999326705933,31.210067749023438,0.218505859375
+169,"A dark fantasy castle on a cliff, overlooking a stormy sea, gothic, atmospheric",outputs/normal/169.png,1.7502756118774414,32.049827575683594,0.333984375
+170,"A detailed illustration of the solar system, planets and orbits, educational, scientific",outputs/normal/170.png,1.4969944953918457,30.853181838989258,0.2880859375
+171,"A cyberpunk street food stall, steam, neon signs, detailed characters, sci-fi",outputs/normal/171.png,0.17260247468948364,29.72119140625,0.275146484375
+172,"A beautiful fairy with butterfly wings, in an enchanted forest, fantasy, ethereal",outputs/normal/172.png,1.4328900575637817,30.47702407836914,0.26806640625
+173,"A gladiator fighting a lion in the Roman Colosseum, historical, action scene",outputs/normal/173.png,1.695422649383545,25.0462589263916,0.259033203125
+174,"A surreal image of a staircase leading up into the clouds, dreamlike, minimalist",outputs/normal/174.png,1.7516969442367554,28.893529891967773,0.2822265625
+175,"A photorealistic painting of a bowl of fruit, still life, style of the old masters",outputs/normal/175.png,0.5919692516326904,27.955717086791992,0.24951171875
+176,"A team of explorers discovering a lost temple in the jungle, adventure, fantasy",outputs/normal/176.png,-0.2265041321516037,28.667131423950195,0.25537109375
+177,"A futuristic cityscape at sunrise, sleek towers, hopeful, sci-fi",outputs/normal/177.png,0.5276108384132385,26.76645851135254,0.2305908203125
+178,"A powerful sorceress controlling the weather, summoning lightning, fantasy, epic",outputs/normal/178.png,1.8310989141464233,30.510446548461914,0.30126953125
+179,"A vintage train traveling through a snowy mountain pass, atmospheric, nostalgic",outputs/normal/179.png,0.8615102767944336,32.06309509277344,0.287109375
+180,"A mechanical owl with glowing eyes, steampunk, intricate gears, detailed",outputs/normal/180.png,-0.5828749537467957,33.63731384277344,0.2783203125
+181,"A beautiful landscape of the Scottish Highlands, misty mountains, photorealistic",outputs/normal/181.png,-2.071044921875,22.926057815551758,0.2017822265625
+182,"A secret meeting of spies in a dimly lit, smoky bar, noir, 1960s Cold War era",outputs/normal/182.png,-0.3245818614959717,28.135404586791992,0.2391357421875
+183,"A fantasy blacksmith forging a magical sword, sparks, intense heat, detailed",outputs/normal/183.png,0.4015381336212158,24.769418716430664,0.2342529296875
+184,"A city on the back of a giant, flying whale, fantasy, whimsical, detailed illustration",outputs/normal/184.png,0.29303812980651855,33.08495330810547,0.2281494140625
+185,"A close-up portrait of a robot with human-like emotions, sci-fi, thought-provoking",outputs/normal/185.png,-0.022835370153188705,27.014530181884766,0.282958984375
+186,"A grand masquerade ball in a Venetian palace, elegant masks, historical, detailed",outputs/normal/186.png,-1.7583699226379395,26.166873931884766,0.2440185546875
+187,"A post-apocalyptic warrior riding a cybernetic horse, sci-fi, fantasy, concept art",outputs/normal/187.png,0.8610827326774597,30.782878875732422,0.276123046875
+188,"A tranquil painting of a cabin by a lake in autumn, reflections, warm colors",outputs/normal/188.png,0.9097954034805298,33.537174224853516,0.276123046875
+189,"A battle between angels and demons in the sky, fantasy, epic, religious",outputs/normal/189.png,0.3487357497215271,24.141206741333008,0.216064453125
+190,"A futuristic garden with holographic plants and robotic caretakers, sci-fi",outputs/normal/190.png,0.4277993440628052,32.72066879272461,0.276123046875
+191,"A pirate captain studying a treasure map in his cabin, detailed, adventurous",outputs/normal/191.png,1.5984841585159302,28.0765438079834,0.30224609375
+192,"A beautiful woman's face merging with a galaxy, surreal, cosmic, abstract",outputs/normal/192.png,1.2682647705078125,30.079299926757812,0.300048828125
+193,"A medieval village festival, cheerful people, folk music, vibrant, historical",outputs/normal/193.png,0.8812612295150757,30.621749877929688,0.26611328125
+194,"A lone wolf looking over a vast, frozen tundra, atmospheric, wildlife photography",outputs/normal/194.png,-0.35408008098602295,27.074504852294922,0.2266845703125
+195,"A cyberpunk operating room, surgeons with robotic arms, sci-fi, high-tech",outputs/normal/195.png,0.1670106202363968,31.719661712646484,0.2666015625
+196,"A majestic pegasus flying through a rainbow, fantasy, whimsical",outputs/normal/196.png,1.8911634683609009,29.120677947998047,0.318359375
+197,"A photorealistic render of a classic vinyl record player, nostalgic, detailed",outputs/normal/197.png,1.5353565216064453,26.72642707824707,0.267578125
+198,"A team of astronauts on a spacewalk, repairing a satellite, Earth in the background, sci-fi",outputs/normal/198.png,-0.6977972984313965,23.650711059570312,0.24072265625
+199,"A haunted, abandoned amusement park at night, creepy, atmospheric, horror",outputs/normal/199.png,0.15486568212509155,30.585887908935547,0.24658203125
+200,"A king giving a speech to his army before a great battle, fantasy, epic, cinematic",outputs/normal/200.png,0.8668963313102722,29.312219619750977,0.2587890625
+201,"A detailed map of a fantasy world, with dragons, castles, and sea monsters, cartography",outputs/normal/201.png,0.618577778339386,29.728591918945312,0.27685546875
+202,"A futuristic Formula 1 car racing on a track that loops through a city, sci-fi, speed",outputs/normal/202.png,-0.5213946104049683,28.34707260131836,0.1981201171875
+203,"A beautiful dryad becoming one with a tree, fantasy, nature, Art Nouveau",outputs/normal/203.png,-0.9691548943519592,30.841182708740234,0.243896484375
+204,"A gritty scene of a boxing match in a 1940s gym, high contrast, black and white",outputs/normal/204.png,-0.21951042115688324,27.762577056884766,0.28173828125
+205,"A colossal sandworm erupting from a desert, sci-fi, fantasy, style of Dune",outputs/normal/205.png,-0.0843539834022522,33.21370315551758,0.2138671875
+206,"A peaceful monastery carved into a cliffside, monks in meditation, serene, atmospheric",outputs/normal/206.png,1.7612152099609375,27.766557693481445,0.3115234375
+207,"A steampunk detective examining a crime scene with a magnifying glass monocle, detailed",outputs/normal/207.png,-0.5086818337440491,27.137481689453125,0.221923828125
+208,"A photorealistic image of a drop of water creating ripples on a calm surface, macro",outputs/normal/208.png,-2.070537567138672,28.99863052368164,0.1683349609375
+209,"A floating island with a waterfall cascading into the clouds, fantasy, dreamlike",outputs/normal/209.png,1.939795970916748,34.953739166259766,0.2998046875
+210,"A portrait of an elegant vampire in a velvet coat, gothic, sophisticated, dark",outputs/normal/210.png,0.7544034123420715,23.606250762939453,0.205078125
+211,"A bustling train station in the 1930s, steam, crowds, vintage, nostalgic",outputs/normal/211.png,0.6970738172531128,29.705291748046875,0.2464599609375
+212,"A futuristic city with organic, flowing architecture, sci-fi, utopian",outputs/normal/212.png,0.37530094385147095,27.742013931274414,0.23046875
+213,"A warrior princess with a spear, leading a charge on a battlefield, fantasy, dynamic",outputs/normal/213.png,0.2596760392189026,27.30930519104004,0.293701171875
+214,"A surreal painting of a forest where the trees are made of books, fantasy, academic",outputs/normal/214.png,0.49725380539894104,33.69921112060547,0.261474609375
+215,"A close-up of a cat's eye, detailed iris, photorealistic",outputs/normal/215.png,-0.1632431298494339,27.226470947265625,0.2132568359375
+216,"A secret agent on a high-speed boat chase through city canals, action, cinematic",outputs/normal/216.png,0.621757447719574,30.447975158691406,0.234130859375
+217,"A beautiful, intricate stained glass window in a cathedral, depicting a mythical scene",outputs/normal/217.png,-0.5466277003288269,26.306407928466797,0.222900390625
+218,"A post-apocalyptic landscape with a lone survivor and their dog, emotional, concept art",outputs/normal/218.png,-1.3710464239120483,27.35761070251465,0.180908203125
+219,"A wizard's tower on a craggy peak, lightning striking, fantasy, atmospheric",outputs/normal/219.png,1.5378056764602661,31.59494972229004,0.304443359375
+220,"A photorealistic render of a vintage camera, detailed, nostalgic",outputs/normal/220.png,1.1982533931732178,32.6713752746582,0.270263671875
+221,"A city street after a rainstorm, reflections on the wet pavement, peaceful, urban",outputs/normal/221.png,0.5178335309028625,29.48992919921875,0.279296875
+222,"A powerful centaur archer in a forest, fantasy, mythological, detailed",outputs/normal/222.png,0.5881538391113281,31.20490837097168,0.270263671875
+223,"A grand, opulent opera house, audience in formal wear, historical, elegant",outputs/normal/223.png,-1.3752714395523071,25.11025047302246,0.243896484375
+224,"A spaceship landing on a planet with red vegetation and two moons, sci-fi, exploration",outputs/normal/224.png,0.19635669887065887,30.373716354370117,0.21484375
+225,"A dark fairy queen on a throne of thorns, gothic, fantasy, powerful",outputs/normal/225.png,-0.24760936200618744,31.314022064208984,0.2509765625
+226,"A detailed illustration of a classic pirate ship, sails, rigging, Jolly Roger flag",outputs/normal/226.png,0.8325827121734619,29.17645835876465,0.232421875
+227,"A cyberpunk ronin with a glowing katana, standing in a neon-lit alley, sci-fi",outputs/normal/227.png,1.3533817529678345,33.569580078125,0.2568359375
+228,"A tranquil scene of a deer drinking from a stream in a sunlit forest, wildlife",outputs/normal/228.png,0.7983344197273254,29.62258529663086,0.291748046875
+229,"A massive, fiery dragon guarding a hoard of gold in a cave, fantasy, epic",outputs/normal/229.png,0.5664950609207153,26.53415870666504,0.2919921875
+230,"A portrait of a Renaissance noblewoman, style of Leonardo da Vinci, historical",outputs/normal/230.png,0.8821690082550049,28.487688064575195,0.213623046875
+231,"A futuristic city during a sandstorm, poor visibility, atmospheric, sci-fi",outputs/normal/231.png,1.4004504680633545,30.40403175354004,0.2215576171875
+232,"A whimsical treehouse village connected by rope bridges, fantasy, detailed illustration",outputs/normal/232.png,0.6730553507804871,32.788143157958984,0.3017578125
+233,"A gladiator fighting a minotaur in an arena, fantasy, mythology, action",outputs/normal/233.png,0.7233578562736511,30.83572006225586,0.289306640625
+234,"A surreal image of a man with a birdcage for a head, black and white, abstract",outputs/normal/234.png,-0.4591681957244873,28.930509567260742,0.2252197265625
+235,"A photorealistic painting of a fresh loaf of bread and cheese, still life",outputs/normal/235.png,-0.5185090899467468,31.863277435302734,0.212158203125
+236,"A team of adventurers opening a giant, ancient stone door, fantasy, discovery",outputs/normal/236.png,1.3181298971176147,30.290067672729492,0.296142578125
+237,"A city of the future with flying gardens and clean energy, utopian, sci-fi",outputs/normal/237.png,1.537340760231018,29.116512298583984,0.28857421875
+238,"A sorceress conjuring a water spirit from a lake, fantasy, elemental magic",outputs/normal/238.png,1.447522759437561,27.225202560424805,0.2298583984375
+239,"A vintage convertible car driving along a coastal road at sunset, nostalgic, peaceful",outputs/normal/239.png,1.611406922340393,32.16006088256836,0.273681640625
+240,"A mechanical heart with glowing gears and tubes, steampunk, detailed",outputs/normal/240.png,-1.0479271411895752,29.870271682739258,0.2015380859375
+241,"A beautiful landscape of the Grand Canyon at sunrise, photorealistic, epic scale",outputs/normal/241.png,-0.59385746717453,29.78380584716797,0.248046875
+242,"A clandestine meeting under a bridge at night, spies exchanging a briefcase, noir",outputs/normal/242.png,0.2303529679775238,27.82859230041504,0.2052001953125
+243,"A fantasy druid with antlers, surrounded by forest animals, nature, peaceful",outputs/normal/243.png,1.4924465417861938,33.49683380126953,0.28759765625
+244,"A city built on the back of a colossal, sleeping giant, fantasy, whimsical",outputs/normal/244.png,0.6884002685546875,26.55118179321289,0.300537109375
+245,"A close-up portrait of a robot looking at its own reflection, sci-fi, introspective",outputs/normal/245.png,0.01629035733640194,26.025110244750977,0.1834716796875
+246,"A grand ball in a palace, inspired by Cinderella, fantasy, romantic",outputs/normal/246.png,-0.592448353767395,27.307945251464844,0.25390625
+247,"A post-apocalyptic biker gang on custom motorcycles, sci-fi, Mad Max style",outputs/normal/247.png,0.682639479637146,27.858579635620117,0.280517578125
+248,"A tranquil painting of a Japanese temple in autumn, maple leaves, serene",outputs/normal/248.png,-1.8491313457489014,27.653968811035156,0.2352294921875
+249,"A battle between a unicorn and a demon, good vs evil, fantasy, epic",outputs/normal/249.png,0.8593692183494568,26.87206268310547,0.300048828125
+250,"A futuristic laboratory with scientists developing a cure, high-tech, hopeful",outputs/normal/250.png,-0.38583675026893616,22.69005584716797,0.2164306640625
+251,"A pirate discovering a treasure chest on a deserted island, adventure, excitement",outputs/normal/251.png,1.8695181608200073,30.954450607299805,0.26318359375
+252,"A beautiful woman's silhouette against a backdrop of a nebula, cosmic, surreal",outputs/normal/252.png,1.0647568702697754,30.81098175048828,0.242919921875
+253,"A medieval jousting tournament, knights on horseback, historical, action",outputs/normal/253.png,0.43097618222236633,29.628604888916016,0.3017578125
+254,"A lone fisherman in a small boat on a misty lake, atmospheric, peaceful",outputs/normal/254.png,1.6067699193954468,31.60445785522461,0.247314453125
+255,"A cyberpunk slum, crowded, ramshackle buildings, neon signs, sci-fi",outputs/normal/255.png,0.6513715982437134,29.965898513793945,0.3037109375
+256,"A majestic griffin resting on a mountain peak, fantasy, noble",outputs/normal/256.png,0.8170144557952881,29.29900360107422,0.276611328125
+257,"A photorealistic render of a classic arcade machine, 80s nostalgia, detailed",outputs/normal/257.png,0.9201680421829224,28.848546981811523,0.273681640625
+258,"An astronaut floating in the void of space, looking at a distant galaxy, sci-fi, awe",outputs/normal/258.png,0.6637443900108337,27.906566619873047,0.252197265625
+259,"A haunted Victorian mansion with ghosts visible in the windows, horror, atmospheric",outputs/normal/259.png,0.655910849571228,28.71599578857422,0.282470703125
+260,"A queen leading her troops into battle, fantasy, powerful, cinematic",outputs/normal/260.png,0.41365352272987366,25.680389404296875,0.334228515625
+261,"A detailed fantasy world map, hand-drawn style, with calligraphy",outputs/normal/261.png,-0.6615865230560303,30.21295738220215,0.1939697265625
+262,"A futuristic racing pod speeding through a canyon, sci-fi, motion blur",outputs/normal/262.png,0.6885232329368591,27.99374771118164,0.2481689453125
+263,"A beautiful wood nymph with bark-like skin and leaves for hair, fantasy, nature",outputs/normal/263.png,-2.261906862258911,27.415353775024414,0.191162109375
+264,"A gritty, black and white photo of a steelworker on a skyscraper, 1930s New York",outputs/normal/264.png,1.1935429573059082,27.522001266479492,0.23583984375
+265,"A colossal kraken attacking a tall ship, fantasy, naval battle, epic",outputs/normal/265.png,1.3341064453125,25.930374145507812,0.284423828125
+266,"A peaceful monastery in the mountains, prayer flags, serene, Tibetan style",outputs/normal/266.png,-0.552695095539093,29.233318328857422,0.236572265625
+267,"A steampunk inventor showing off a clockwork bird, detailed, whimsical",outputs/normal/267.png,1.5672277212142944,32.50708770751953,0.2469482421875
+268,"A photorealistic image of ice cubes dropping into a glass of water, splash, macro",outputs/normal/268.png,-0.4680080711841583,22.064899444580078,0.232666015625
+269,"A floating castle in the sky, surrounded by clouds, fantasy, dreamlike",outputs/normal/269.png,1.8297260999679565,35.42164993286133,0.32958984375
+270,"A portrait of a handsome, brooding vampire, gothic, romantic, dark",outputs/normal/270.png,-0.20632942020893097,22.886045455932617,0.228515625
+271,"A bustling marketplace in ancient Rome, senators, merchants, historical",outputs/normal/271.png,0.953585147857666,30.050403594970703,0.2724609375
+272,"A futuristic city with buildings that touch the clouds, sci-fi, utopian, clean",outputs/normal/272.png,0.307218462228775,28.404014587402344,0.225341796875
+273,"A warrior princess with a bow and arrow, in a forest, fantasy, strong",outputs/normal/273.png,0.10853710770606995,28.828960418701172,0.284912109375
+274,"A surreal painting of a desert filled with giant, antique clocks, fantasy",outputs/normal/274.png,1.7403391599655151,33.25896453857422,0.31591796875
+275,"A close-up of a tiger's face, intense gaze, photorealistic",outputs/normal/275.png,0.8692384362220764,28.816492080688477,0.265380859375
+276,"A secret agent in a tuxedo, in a high-stakes poker game at a casino, cinematic",outputs/normal/276.png,1.604326844215393,28.905794143676758,0.301513671875
+277,"A beautiful, intricate Celtic knot design, abstract, historical",outputs/normal/277.png,0.6354094743728638,32.40158462524414,0.244140625
+278,"A post-apocalyptic survivor's fortified camp, defenses, gritty, concept art",outputs/normal/278.png,0.21789565682411194,31.250896453857422,0.2235107421875
+279,"A wizard casting a protection spell around a castle, fantasy, magical energy",outputs/normal/279.png,-0.20991626381874084,30.878490447998047,0.231689453125
+280,"A photorealistic render of a vintage radio, detailed, nostalgic",outputs/normal/280.png,0.3280860185623169,30.009502410888672,0.2164306640625
+281,"A city street at night, bokeh lights, urban, peaceful",outputs/normal/281.png,0.5568788647651672,26.804637908935547,0.237060546875
+282,"A powerful female gladiator with a sword and shield, fantasy, strong",outputs/normal/282.png,0.6527928113937378,26.77376937866211,0.286865234375
+283,"A grand, opulent ballroom with a crystal chandelier, historical, elegant",outputs/normal/283.png,0.9476950764656067,30.23868179321289,0.322021484375
+284,"A spaceship crew on the bridge of their ship, looking at a new planet, sci-fi",outputs/normal/284.png,0.037661392241716385,29.330848693847656,0.228759765625
+285,"A dark elf assassin with two daggers, lurking in the shadows, fantasy, stealthy",outputs/normal/285.png,-0.04355957359075546,28.776874542236328,0.21826171875
+286,"A detailed illustration of a Viking village, longhouses, ships, historical",outputs/normal/286.png,-0.6864607930183411,28.734420776367188,0.174072265625
+287,"A cyberpunk hacker with glowing cybernetic eyes, sci-fi, intense",outputs/normal/287.png,-0.20134475827217102,27.490821838378906,0.2276611328125
+288,"A tranquil scene of a panda eating bamboo in a forest, wildlife",outputs/normal/288.png,-0.27219098806381226,27.358505249023438,0.27392578125
+289,"A massive, ancient dragon sleeping on a mountain of gold, fantasy, epic",outputs/normal/289.png,-0.7600853443145752,27.423500061035156,0.25048828125
+290,"A portrait of a pharaoh in ancient Egypt, historical, regal",outputs/normal/290.png,-1.1892590522766113,21.697832107543945,0.231201171875
+291,"A futuristic city in a blizzard, snow-covered skyscrapers, atmospheric, sci-fi",outputs/normal/291.png,1.068682312965393,29.820289611816406,0.22802734375
+292,"A whimsical village where the houses are giant mushrooms, fantasy, detailed",outputs/normal/292.png,1.3296347856521606,33.0580940246582,0.306396484375
+293,"A hero fighting a gorgon in a ruined temple, fantasy, mythology, action",outputs/normal/293.png,0.8366398215293884,26.269248962402344,0.224609375
+294,"A surreal image of a man fishing in the clouds from a floating boat, dreamlike",outputs/normal/294.png,0.9273221492767334,29.272127151489258,0.25
+295,"A photorealistic painting of a stack of pancakes with syrup, still life, food",outputs/normal/295.png,1.1598117351531982,34.59701919555664,0.276611328125
+296,"A team of adventurers finding a hidden oasis in the desert, fantasy, discovery",outputs/normal/296.png,-1.2004270553588867,24.47771453857422,0.2305908203125
+297,"A city of the future with monorails and clean, white buildings, utopian, sci-fi",outputs/normal/297.png,1.1822689771652222,27.946971893310547,0.24267578125
+298,"A sorceress commanding an army of the dead, fantasy, necromancer, epic",outputs/normal/298.png,-1.2136057615280151,28.311534881591797,0.231201171875
+299,"A vintage motorcycle parked in front of a rustic diner, nostalgic, Americana",outputs/normal/299.png,0.10334674268960953,33.41659927368164,0.258056640625
+300,"A mechanical whale swimming through a sea of clouds, steampunk, fantasy",outputs/normal/300.png,-0.8954090476036072,33.4398078918457,0.2470703125
+301,"A beautiful landscape of the aurora borealis over a frozen lake, photorealistic",outputs/normal/301.png,0.6793462038040161,26.337879180908203,0.259033203125
+302,"A clandestine meeting of resistance fighters in a bombed-out building, WWII, historical",outputs/normal/302.png,0.7443678975105286,32.04737854003906,0.2440185546875
+303,"A fantasy elf forging a glowing sword with magic, detailed, enchanting",outputs/normal/303.png,1.3396543264389038,25.725635528564453,0.279541015625
+304,"A city built into the side of a giant canyon, fantasy, architectural",outputs/normal/304.png,-1.2658506631851196,23.66254997253418,0.236328125
+305,"A close-up portrait of a robot with a single, expressive eye, sci-fi",outputs/normal/305.png,-1.4530004262924194,30.467378616333008,0.2144775390625
+306,"A grand royal wedding in a cathedral, fantasy, romantic, elegant",outputs/normal/306.png,0.24488964676856995,28.554698944091797,0.305419921875
+307,"A post-apocalyptic scavenger driving a heavily modified car, sci-fi, Mad Max style",outputs/normal/307.png,-0.24388957023620605,30.74761390686035,0.2181396484375
+308,"A tranquil painting of a Japanese garden with a stone lantern, serene",outputs/normal/308.png,-1.6603094339370728,31.230241775512695,0.252685546875
+309,"A battle between a griffin and a manticore, fantasy, epic, mythological",outputs/normal/309.png,1.39594566822052,27.966217041015625,0.2401123046875
+310,"A futuristic hospital with robotic surgeons and healing pods, high-tech, sci-fi",outputs/normal/310.png,0.17311300337314606,31.723249435424805,0.2435302734375
+311,"A pirate captain with a treasure map, looking out from his ship, adventurous",outputs/normal/311.png,0.715401828289032,28.090375900268555,0.3134765625
+312,"A beautiful woman's face made of swirling galaxies and stars, cosmic, abstract",outputs/normal/312.png,0.35026875138282776,28.569313049316406,0.273193359375
+313,"A medieval fair with jugglers, minstrels, and merchants, vibrant, historical",outputs/normal/313.png,0.7829278111457825,28.257530212402344,0.28076171875
+314,"A lone polar bear on an ice floe, atmospheric, wildlife photography",outputs/normal/314.png,0.028506405651569366,28.309532165527344,0.27734375
+315,"A cyberpunk data heist in progress, alarms blaring, sci-fi, action",outputs/normal/315.png,0.08043821901082993,25.86958122253418,0.2308349609375
+316,"A majestic hippogriff in flight, fantasy, noble, detailed",outputs/normal/316.png,-0.2556810677051544,32.63920211791992,0.219482421875
+317,"A photorealistic render of a classic boombox, 80s nostalgia, detailed",outputs/normal/317.png,0.36019274592399597,28.942054748535156,0.2120361328125
+318,"An astronaut on a spacewalk, tethered to the ISS, looking down at Earth, sci-fi",outputs/normal/318.png,0.9008101224899292,27.358627319335938,0.292236328125
+319,"A haunted library with floating books and ghostly figures, horror, atmospheric",outputs/normal/319.png,-0.8361709713935852,23.9929141998291,0.2222900390625
+320,"A king on his throne, passing judgment, fantasy, regal, serious",outputs/normal/320.png,0.2810271680355072,26.161436080932617,0.2470703125
+321,"A detailed map of a pirate's treasure island, X marks the spot, cartography",outputs/normal/321.png,0.4610811471939087,30.122047424316406,0.25439453125
+322,"A futuristic anti-gravity race, pods weaving through floating rings, sci-fi, speed",outputs/normal/322.png,0.46305686235427856,27.433258056640625,0.1993408203125
+323,"A beautiful nymph bathing in a forest spring, fantasy, nature, serene",outputs/normal/323.png,-0.1206243485212326,31.174049377441406,0.27099609375
+324,"A gritty, black and white photo of a jazz musician playing a saxophone, smoky club",outputs/normal/324.png,1.152948260307312,29.92144203186035,0.239501953125
+325,"A colossal Cthulhu rising from the ocean depths, horror, cosmic horror, epic",outputs/normal/325.png,1.1154072284698486,27.299728393554688,0.27783203125
+326,"A peaceful Shaolin temple in the mountains, monks training, serene, atmospheric",outputs/normal/326.png,1.0959186553955078,30.057281494140625,0.25537109375
+327,"A steampunk ornithopter, a flying machine with flapping wings, detailed, whimsical",outputs/normal/327.png,0.1544400155544281,32.17995834350586,0.2220458984375
+328,"A photorealistic image of a dewdrop on a blade of grass, macro, detailed",outputs/normal/328.png,-0.058817774057388306,30.864011764526367,0.261962890625
+329,"A floating marketplace in the clouds, merchants selling exotic goods, fantasy",outputs/normal/329.png,0.3080585300922394,30.647119522094727,0.27734375
+330,"A portrait of a handsome, charismatic pirate captain, roguish smile, detailed",outputs/normal/330.png,1.6180158853530884,27.711332321166992,0.3046875
+331,"A bustling street scene in Victorian London, horse-drawn carriages, gas lamps",outputs/normal/331.png,-1.0079079866409302,31.4249267578125,0.2059326171875
+332,"A futuristic city with buildings shaped like giant plants, organic architecture, sci-fi",outputs/normal/332.png,1.5500532388687134,31.66558837890625,0.2880859375
+333,"A warrior queen with a spear and shield, leading her army, fantasy, powerful",outputs/normal/333.png,-0.46058058738708496,25.052701950073242,0.260498046875
+334,"A surreal painting of a desert with a giant, single eye in the sky, fantasy",outputs/normal/334.png,0.02992074377834797,37.19056701660156,0.2337646484375
+335,"A close-up of a lion's roaring mouth, intense, photorealistic",outputs/normal/335.png,1.6586604118347168,29.40615463256836,0.254638671875
+336,"A secret agent in a white tuxedo, at a casino in Monaco, cinematic, elegant",outputs/normal/336.png,-1.2162954807281494,27.516305923461914,0.227783203125
+337,"A beautiful, intricate mandala design, spiritual, abstract, colorful",outputs/normal/337.png,0.9193984270095825,29.997861862182617,0.28466796875
+338,"A post-apocalyptic survivor's makeshift home inside a ruined bus, concept art",outputs/normal/338.png,0.9825282692909241,33.333473205566406,0.276123046875
+339,"A wizard creating a magical storm over a city, fantasy, epic power",outputs/normal/339.png,1.5787826776504517,27.700239181518555,0.259033203125
+340,"A photorealistic render of a vintage rotary phone, detailed, nostalgic",outputs/normal/340.png,1.3447567224502563,34.480411529541016,0.2568359375
+341,"A city street at dusk, streetlights beginning to glow, urban, peaceful",outputs/normal/341.png,1.3037354946136475,26.069068908691406,0.294921875
+342,"A powerful female barbarian with two axes, fantasy, strong, dynamic",outputs/normal/342.png,0.04118608310818672,31.8875789642334,0.26806640625
+343,"A grand, opulent theater with red velvet curtains, historical, elegant",outputs/normal/343.png,0.5299463868141174,27.171817779541016,0.28125
+344,"A spaceship crew discovering ancient alien ruins, sci-fi, exploration, mystery",outputs/normal/344.png,-0.7764313220977783,26.56932830810547,0.178466796875
+345,"A wood elf scout perched in a tree, with a bow, fantasy, stealthy",outputs/normal/345.png,0.39594927430152893,28.986400604248047,0.25244140625
+346,"A detailed illustration of a Japanese castle, samurai guards, historical",outputs/normal/346.png,-1.5383756160736084,24.09151268005371,0.217529296875
+347,"A cyberpunk street samurai with a cybernetic arm and a katana, sci-fi",outputs/normal/347.png,1.5390326976776123,30.121898651123047,0.288330078125
+348,"A tranquil scene of a family of elephants at a watering hole, wildlife",outputs/normal/348.png,0.7793925404548645,28.07621955871582,0.26953125
+349,"A massive, three-headed dragon (hydra) breathing fire, fantasy, epic",outputs/normal/349.png,1.6530324220657349,24.744783401489258,0.27001953125
+350,"A portrait of Queen Elizabeth I in full royal attire, historical, regal",outputs/normal/350.png,0.6290414333343506,29.078187942504883,0.2325439453125
+351,"A futuristic city under a perpetual aurora, sci-fi, atmospheric, beautiful",outputs/normal/351.png,1.455955982208252,31.578075408935547,0.2373046875
+352,"A whimsical village where the inhabitants are tiny fairies, fantasy, detailed",outputs/normal/352.png,1.2028924226760864,31.85265350341797,0.3232421875
+353,"A hero fighting a cyclops in a cave, fantasy, mythology, action",outputs/normal/353.png,0.5726936459541321,25.95823097229004,0.239990234375
+354,"A surreal image of a man walking on water, with the sky reflected below, dreamlike",outputs/normal/354.png,1.3707045316696167,27.737791061401367,0.28955078125
+355,"A photorealistic painting of a glass of red wine, still life",outputs/normal/355.png,0.8473217487335205,27.8802490234375,0.251953125
+356,"A team of adventurers navigating a treacherous, lava-filled cavern, fantasy",outputs/normal/356.png,0.07926102727651596,27.204465866088867,0.211181640625
+357,"A city of the future with personal flying vehicles and clean, green spaces, utopian",outputs/normal/357.png,1.6607961654663086,31.433862686157227,0.2685546875
+358,"A sorceress weaving a spell from threads of light, fantasy, intricate",outputs/normal/358.png,0.635183572769165,23.898801803588867,0.2366943359375
+359,"A vintage muscle car doing a burnout, smoke, Americana, action",outputs/normal/359.png,1.7070475816726685,30.476125717163086,0.29443359375
+360,"A mechanical scorpion in a desert, steampunk, detailed, menacing",outputs/normal/360.png,0.2956623435020447,33.8856315612793,0.278076171875
+361,"A beautiful landscape of the Norwegian fjords, photorealistic, epic scale",outputs/normal/361.png,0.7093399167060852,25.91356086730957,0.27001953125
+362,"A spy thriller scene in a Cold War-era Berlin, checkpoint, tension, noir",outputs/normal/362.png,-1.1852219104766846,23.75543212890625,0.1719970703125
+363,"A fantasy dwarf blacksmith with a magnificent beard, forging an axe, detailed",outputs/normal/363.png,1.0883156061172485,27.09410858154297,0.266845703125
+364,"A city built on and around a giant, petrified dragon, fantasy, architectural",outputs/normal/364.png,-0.1890585571527481,25.489437103271484,0.28466796875
+365,"A close-up portrait of a robot questioning its existence, sci-fi, philosophical",outputs/normal/365.png,-1.0329679250717163,23.475608825683594,0.1904296875
+366,"A grand costume ball in a French palace, 18th century, historical, elegant",outputs/normal/366.png,0.969075083732605,32.27785873413086,0.28369140625
+367,"A post-apocalyptic nomad wrapped in tattered clothes, walking through a desert",outputs/normal/367.png,0.9792766571044922,31.123525619506836,0.2666015625
+368,"A tranquil painting of a Japanese koi pond, colorful fish, serene",outputs/normal/368.png,0.749836802482605,34.26180648803711,0.295166015625
+369,"A battle between a pegasus and a manticore in the sky, fantasy, epic",outputs/normal/369.png,1.5573883056640625,28.610546112060547,0.304931640625
+370,"A futuristic operating room with a holographic patient display, high-tech, sci-fi",outputs/normal/370.png,0.5372263789176941,29.374324798583984,0.228271484375
+371,"A pirate first mate with a parrot on his shoulder, on the deck of a ship",outputs/normal/371.png,0.1247490867972374,24.906768798828125,0.2998046875
+372,"A beautiful woman's face dissolving into a flock of birds, surreal, abstract",outputs/normal/372.png,1.574341893196106,31.257993698120117,0.28759765625
+373,"A medieval harvest festival, villagers celebrating, vibrant, historical",outputs/normal/373.png,0.5904713273048401,34.322113037109375,0.290283203125
+374,"A lone arctic fox in a snowstorm, atmospheric, wildlife photography",outputs/normal/374.png,1.613789677619934,29.970258712768555,0.28662109375
+375,"A cyberpunk gang having a standoff in a neon-lit alley, sci-fi, tension",outputs/normal/375.png,1.0140212774276733,27.497554779052734,0.2666015625
+376,"A majestic sphinx guarding the entrance to a pyramid, fantasy, mythological",outputs/normal/376.png,-0.5425761938095093,24.294208526611328,0.213134765625
+377,"A photorealistic render of a classic Nintendo controller, 80s nostalgia",outputs/normal/377.png,0.5773749947547913,28.813779830932617,0.255859375
+378,"An astronaut doing a flip in zero gravity, inside a space station, sci-fi",outputs/normal/378.png,1.5363918542861938,27.446115493774414,0.26171875
+379,"A haunted, abandoned hospital, creepy, atmospheric, horror",outputs/normal/379.png,0.14618650078773499,27.650774002075195,0.2357177734375
+380,"A queen inspecting her troops before a battle, fantasy, regal, determined",outputs/normal/380.png,0.915742039680481,30.00559425354004,0.308837890625
+381,"A detailed fantasy map showing a 'here be dragons' section, cartography",outputs/normal/381.png,0.9220710396766663,26.74344825744629,0.2412109375
+382,"A futuristic jet bike race through a futuristic metropolis, sci-fi, speed",outputs/normal/382.png,0.21036486327648163,28.08591079711914,0.2457275390625
+383,"A beautiful mermaid princess with a crown of shells, fantasy, underwater",outputs/normal/383.png,1.2179723978042603,27.840972900390625,0.254638671875
+384,"A gritty, black and white photo of a detective at a crime scene, noir, 1950s",outputs/normal/384.png,-0.8316420316696167,19.551063537597656,0.2252197265625
+385,"A colossal golem made of rock and magma, fantasy, elemental, epic",outputs/normal/385.png,0.011423705145716667,27.62955093383789,0.2335205078125
+386,"A peaceful village in the Swiss Alps, chalets, mountains, serene",outputs/normal/386.png,1.1587156057357788,29.05775260925293,0.3349609375
+387,"A steampunk explorer with a brass telescope, looking out over a new world",outputs/normal/387.png,-0.4466263949871063,26.024446487426758,0.225830078125
+388,"A photorealistic image of a coffee bean, macro, detailed",outputs/normal/388.png,-0.05593084171414375,26.407655715942383,0.221435546875
+389,"A floating island with ancient ruins and a mysterious obelisk, fantasy",outputs/normal/389.png,-0.7518822550773621,24.675464630126953,0.272705078125
+390,"A portrait of a dashing, heroic knight, shining armor, noble",outputs/normal/390.png,0.07810955494642258,26.71763038635254,0.176513671875
+391,"A bustling street scene in 1920s New York, Model T cars, flappers, historical",outputs/normal/391.png,0.6631686091423035,31.594627380371094,0.2208251953125
+392,"A futuristic city with buildings that mimic natural forms, bio-architecture, sci-fi",outputs/normal/392.png,1.3362183570861816,27.865774154663086,0.29638671875
+393,"A warrior shaman with face paint, calling upon spirits, fantasy, tribal",outputs/normal/393.png,1.7085415124893188,30.803091049194336,0.3154296875
+394,"A surreal painting of a library where the books fly like birds, fantasy",outputs/normal/394.png,1.154787302017212,38.718910217285156,0.279052734375
+395,"A close-up of a wolf's eye, reflecting a forest, photorealistic",outputs/normal/395.png,-2.1734867095947266,25.813270568847656,0.175537109375
+396,"A secret agent in a ski chase down a mountain, action, cinematic",outputs/normal/396.png,0.8637762069702148,36.757022857666016,0.290771484375
+397,"A beautiful, intricate Islamic geometric pattern, abstract, historical",outputs/normal/397.png,-0.536255955696106,29.77533721923828,0.24560546875
+398,"A post-apocalyptic survivor's small, thriving garden in a ruined city, hope",outputs/normal/398.png,0.29451045393943787,28.401391983032227,0.2440185546875
+399,"A wizard's library with an orrery of the solar system, fantasy, astronomical",outputs/normal/399.png,-0.40249672532081604,24.807432174682617,0.288330078125
+400,"A photorealistic render of a vintage jukebox, detailed, nostalgic",outputs/normal/400.png,1.4893132448196411,33.95521545410156,0.2421875
+401,"A city street at sunrise, long shadows, urban, peaceful",outputs/normal/401.png,1.3662458658218384,27.888038635253906,0.26220703125
+402,"A powerful female Viking warrior with a shield and axe, fantasy, strong",outputs/normal/402.png,1.0668553113937378,28.284311294555664,0.267822265625
+403,"A grand, abandoned theater, dusty seats, a single spotlight on stage",outputs/normal/403.png,-0.6748742461204529,26.468074798583984,0.259033203125
+404,"A spaceship crew encountering a giant, space-faring alien creature, sci-fi",outputs/normal/404.png,0.14902839064598083,26.055877685546875,0.19189453125
+405,"A halfling rogue picking a lock on a treasure chest, fantasy, stealthy",outputs/normal/405.png,-1.3462889194488525,20.243099212646484,0.1854248046875
+406,"A detailed illustration of a medieval siege tower, historical, warfare",outputs/normal/406.png,-0.16564197838306427,31.048601150512695,0.2020263671875
+407,"A cyberpunk doctor tending to a patient with cybernetic implants, sci-fi",outputs/normal/407.png,0.134799525141716,28.25664520263672,0.27685546875
+408,"A tranquil scene of a red panda sleeping on a tree branch, wildlife",outputs/normal/408.png,0.5667877793312073,25.87146759033203,0.268798828125
+409,"A massive, skeletal dragon breathing ethereal fire, fantasy, undead, epic",outputs/normal/409.png,-0.9941628575325012,27.455060958862305,0.267333984375
+410,"A portrait of Julius Caesar in ancient Rome, historical, powerful",outputs/normal/410.png,1.1280932426452637,26.985137939453125,0.2178955078125
+411,"A futuristic city in a toxic fog, citizens wearing masks, dystopian, sci-fi",outputs/normal/411.png,0.2355533391237259,30.801212310791016,0.179931640625
+412,"A whimsical town where the buildings are made of candy and sweets, fantasy",outputs/normal/412.png,1.141161561012268,34.177005767822266,0.31103515625
+413,"A hero fighting a minotaur in a labyrinth, fantasy, mythology, action",outputs/normal/413.png,0.2225373536348343,29.302560806274414,0.263671875
+414,"A surreal image of a man holding an umbrella that rains upwards, dreamlike",outputs/normal/414.png,1.9129793643951416,24.568552017211914,0.292236328125
+415,"A photorealistic painting of a bottle of wine and a glass, still life",outputs/normal/415.png,0.7642073035240173,30.058265686035156,0.25927734375
+416,"A team of adventurers discovering a map tattooed on a skeleton, fantasy",outputs/normal/416.png,-1.919556736946106,25.1556453704834,0.1331787109375
+417,"A city of the future with floating parks and personal drones, utopian, sci-fi",outputs/normal/417.png,0.9719185829162598,31.865516662597656,0.252685546875
+418,"A sorceress manipulating sand to create a sculpture, fantasy, elemental",outputs/normal/418.png,-0.6288666725158691,31.317827224731445,0.1907958984375
+419,"A vintage hot rod racing on a salt flat, speed, Americana",outputs/normal/419.png,1.6801738739013672,35.18784713745117,0.23095703125
+420,"A mechanical spider in a factory setting, steampunk, detailed, industrial",outputs/normal/420.png,1.6224031448364258,33.13613510131836,0.298095703125
+421,"A beautiful landscape of the Amazon rainforest, dense vegetation, photorealistic",outputs/normal/421.png,0.9786985516548157,28.66804313659668,0.25439453125
+422,"A spy exchange on a foggy bridge at dawn, Cold War, tension, noir",outputs/normal/422.png,-0.9301024079322815,28.838258743286133,0.185791015625
+423,"A fantasy gnome inventor tinkering with a small, clockwork device, detailed",outputs/normal/423.png,1.0655452013015747,31.568283081054688,0.2469482421875
+424,"A city built inside a giant, hollowed-out mountain, fantasy, architectural",outputs/normal/424.png,1.0334713459014893,28.89502716064453,0.287353515625
+425,"A close-up portrait of a robot looking at a flower with curiosity, sci-fi",outputs/normal/425.png,0.41501614451408386,30.918407440185547,0.26806640625
+426,"A grand royal coronation ceremony, king being crowned, fantasy, regal",outputs/normal/426.png,0.4181743264198303,28.13297462463379,0.29443359375
+427,"A post-apocalyptic scavenger with a gas mask, exploring a subway tunnel",outputs/normal/427.png,0.9990990161895752,26.736143112182617,0.25
+428,"A tranquil painting of a Japanese cherry blossom festival at night, lanterns",outputs/normal/428.png,-0.5332852005958557,27.890338897705078,0.25146484375
+429,"A battle between a chimera and a knight, fantasy, epic, mythological",outputs/normal/429.png,0.8682101964950562,29.287206649780273,0.27294921875
+430,"A futuristic classroom with holographic teachers and interactive desks, sci-fi",outputs/normal/430.png,0.27430465817451477,32.373836517333984,0.225341796875
+431,"A pirate quartermaster counting gold coins in the ship's hold, detailed",outputs/normal/431.png,0.9903730750083923,32.130802154541016,0.305419921875
+432,"A beautiful woman's face made of shattered glass, surreal, abstract, emotional",outputs/normal/432.png,1.451486349105835,29.841482162475586,0.293212890625
+433,"A medieval tournament with archery and sword fighting, vibrant, historical",outputs/normal/433.png,0.7483713626861572,29.528179168701172,0.278076171875
+434,"A lone deer in a snowy, silent forest, atmospheric, wildlife photography",outputs/normal/434.png,1.1615420579910278,30.60308074951172,0.26171875
+435,"A cyberpunk police officer making an arrest, neon-lit rain, sci-fi",outputs/normal/435.png,1.0971249341964722,29.994380950927734,0.281494140625
+436,"A majestic centaur overlooking a valley, fantasy, mythological, noble",outputs/normal/436.png,1.8315216302871704,27.161518096923828,0.244873046875
+437,"A photorealistic render of a classic cassette tape, 80s nostalgia, detailed",outputs/normal/437.png,0.3808850944042206,28.904224395751953,0.206787109375
+438,"An astronaut playing a guitar in zero gravity, inside a space station, sci-fi",outputs/normal/438.png,-0.8983439803123474,22.069347381591797,0.281982421875
+439,"A haunted, overgrown cemetery at dusk, creepy, atmospheric, horror",outputs/normal/439.png,-0.09261659532785416,26.32102394104004,0.254150390625
+440,"A queen giving a rousing speech to her people from a balcony, fantasy, regal",outputs/normal/440.png,1.0495837926864624,33.893680572509766,0.273193359375
+441,"A detailed fantasy map with a compass rose and scale, cartography",outputs/normal/441.png,0.9179791212081909,25.570049285888672,0.2626953125
+442,"A futuristic hoverboard race through an obstacle course, sci-fi, speed",outputs/normal/442.png,0.6890902519226074,31.88643455505371,0.2144775390625
+443,"A beautiful water nymph rising from a lake, fantasy, nature, ethereal",outputs/normal/443.png,-1.5454241037368774,23.591201782226562,0.2435302734375
+444,"A gritty, black and white photo of a factory worker, industrial revolution",outputs/normal/444.png,-0.5175042748451233,26.17670249938965,0.20751953125
+445,"A colossal hydra with nine heads, rising from a swamp, fantasy, epic",outputs/normal/445.png,-0.3479591906070709,27.99471664428711,0.2265625
+446,"A peaceful village in the Italian countryside, vineyards, rustic, serene",outputs/normal/446.png,0.5530499815940857,25.855594635009766,0.302001953125
+447,"A steampunk scientist with goggles and a lab coat, holding a glowing potion",outputs/normal/447.png,1.5669645071029663,29.467683792114258,0.2435302734375
+448,"A photorealistic image of a feather, macro, detailed, delicate",outputs/normal/448.png,-0.6666847467422485,32.74250793457031,0.2296142578125
+449,"A floating island with a wizard's tower, connected by a rainbow bridge",outputs/normal/449.png,0.1543932855129242,28.66551971435547,0.2213134765625
+450,"A portrait of a noble, handsome elf prince, fantasy, regal",outputs/normal/450.png,1.1882210969924927,32.09590148925781,0.26025390625
+451,"A bustling street scene in 1960s London, double-decker buses, mods, historical",outputs/normal/451.png,0.0919160470366478,26.669185638427734,0.251220703125
+452,"A futuristic city with buildings that can change shape, adaptive architecture",outputs/normal/452.png,0.7607371211051941,29.014814376831055,0.301513671875
+453,"A warrior druid shapeshifting into a bear, fantasy, dynamic, tribal",outputs/normal/453.png,0.35811638832092285,32.99738693237305,0.228515625
+454,"A surreal painting of a desert with ships sailing on the sand, fantasy",outputs/normal/454.png,0.9509490132331848,30.683320999145508,0.2294921875
+455,"A close-up of a snake's eye, detailed scales, photorealistic",outputs/normal/455.png,0.8821750283241272,21.256715774536133,0.270263671875
+456,"A secret agent in a dramatic gunfight in a crowded marketplace, action",outputs/normal/456.png,1.1720869541168213,26.619434356689453,0.2939453125
+457,"A beautiful, intricate Persian rug pattern, abstract, historical",outputs/normal/457.png,-0.8286738991737366,25.912397384643555,0.218994140625
+458,"A post-apocalyptic survivor finding a single, green sprout in the wasteland",outputs/normal/458.png,-0.9073367714881897,27.759796142578125,0.2344970703125
+459,"A wizard's study with a crystal ball showing a vision, fantasy, magical",outputs/normal/459.png,1.6524872779846191,29.463022232055664,0.2568359375
+460,"A photorealistic render of a vintage film projector, detailed, nostalgic",outputs/normal/460.png,0.35463160276412964,27.78689193725586,0.21728515625
+461,"A city street in a downpour, reflections of traffic lights, urban, moody",outputs/normal/461.png,0.41694045066833496,26.88047218322754,0.27392578125
+462,"A powerful female paladin in shining armor, holding a holy hammer, fantasy",outputs/normal/462.png,-0.8616582751274109,29.175495147705078,0.21533203125
+463,"A grand, abandoned ballroom, covered in dust and cobwebs, eerie",outputs/normal/463.png,0.6543365716934204,28.914278030395508,0.257568359375
+464,"A spaceship crew making first contact with a peaceful alien race, sci-fi",outputs/normal/464.png,-0.638380765914917,25.149730682373047,0.2159423828125
+465,"A gnome rogue disarming a trap on a treasure chest, fantasy, tension",outputs/normal/465.png,1.8933255672454834,33.02220153808594,0.3203125
+466,"A detailed illustration of a Roman aqueduct, historical, engineering",outputs/normal/466.png,-0.5643187761306763,26.851558685302734,0.21826171875
+467,"A cyberpunk ripperdoc installing a cybernetic arm, sci-fi, gritty",outputs/normal/467.png,0.516716480255127,32.146690368652344,0.2705078125
+468,"A tranquil scene of a koala sleeping in a eucalyptus tree, wildlife",outputs/normal/468.png,1.0135942697525024,28.366178512573242,0.26611328125
+469,"A massive, undead dragon, bones held together by magic, fantasy, epic",outputs/normal/469.png,-0.6140575408935547,24.50131607055664,0.2139892578125
+470,"A portrait of Napoleon Bonaparte on his horse, historical, powerful",outputs/normal/470.png,1.0956549644470215,27.42686653137207,0.277099609375
+471,"A futuristic city where the population lives in mile-high towers, dystopian",outputs/normal/471.png,0.3509950041770935,26.074182510375977,0.2484130859375
+472,"A whimsical world where everything is made of paper, origami style, fantasy",outputs/normal/472.png,-0.3692788779735565,25.924850463867188,0.249267578125
+473,"A hero fighting a cyclops on a stormy cliffside, fantasy, mythology",outputs/normal/473.png,1.6137592792510986,28.07573890686035,0.268798828125
+474,"A surreal image of a man whose shadow has a life of its own, dreamlike",outputs/normal/474.png,0.1299518495798111,28.426891326904297,0.192626953125
+475,"A photorealistic painting of a bowl of ramen, still life, food",outputs/normal/475.png,0.5940181612968445,35.45254135131836,0.315185546875
+476,"A team of adventurers discovering a lost city of gold, fantasy, discovery",outputs/normal/476.png,-0.5582104325294495,28.652334213256836,0.23095703125
+477,"A city of the future with flying cars and holographic ads, Blade Runner style",outputs/normal/477.png,-0.9203640818595886,27.390867233276367,0.256103515625
+478,"A sorceress casting a spell that freezes time, fantasy, intricate",outputs/normal/478.png,0.5017840266227722,26.797611236572266,0.2301025390625
+479,"A vintage race car on the track at Monaco, speed, historical",outputs/normal/479.png,0.1894873082637787,27.237075805664062,0.2257080078125
+480,"A mechanical bird singing on a branch, steampunk, detailed, whimsical",outputs/normal/480.png,-0.7785678505897522,36.3642463684082,0.252197265625
+481,"A beautiful landscape of the lavender fields in Provence, France, photorealistic",outputs/normal/481.png,0.5759145021438599,28.583526611328125,0.272216796875
+482,"A spy thriller scene, a tense chase over the rooftops of Prague, noir",outputs/normal/482.png,-1.1242549419403076,28.70548439025879,0.2169189453125
+483,"A fantasy dwarf warrior with a braided beard and a giant hammer, detailed",outputs/normal/483.png,1.050866961479187,37.15542984008789,0.2734375
+484,"A city built on the shells of giant, ancient sea turtles, fantasy",outputs/normal/484.png,1.5227683782577515,32.87189483642578,0.318603515625
+485,"A close-up portrait of a robot looking at a butterfly on its finger, sci-fi",outputs/normal/485.png,-0.628834068775177,22.711334228515625,0.20703125
+486,"A grand royal feast in a castle's great hall, fantasy, medieval",outputs/normal/486.png,1.1811211109161377,33.273536682128906,0.28662109375
+487,"A post-apocalyptic scavenger with a crossbow, hunting in a ruined city",outputs/normal/487.png,1.114331603050232,34.857460021972656,0.2293701171875
+488,"A tranquil painting of a Japanese onsen (hot spring) in the snow, serene",outputs/normal/488.png,0.2029740959405899,37.60927200317383,0.265625
+489,"A battle between a phoenix and a frost giant, fire and ice, fantasy, epic",outputs/normal/489.png,0.8629440069198608,29.78241729736328,0.307861328125
+490,"A futuristic medical bay, a patient in a stasis pod, high-tech, sci-fi",outputs/normal/490.png,-0.5239615440368652,28.207019805908203,0.2293701171875
+491,"A pirate crew celebrating after finding treasure, cheerful, adventurous",outputs/normal/491.png,0.860830545425415,29.888174057006836,0.3203125
+492,"A beautiful woman's face made of swirling smoke, surreal, abstract",outputs/normal/492.png,-0.4858715534210205,26.809648513793945,0.25048828125
+493,"A medieval blacksmith's forge, fire, anvil, and tools, historical",outputs/normal/493.png,-1.301686406135559,30.570554733276367,0.2529296875
+494,"A lone wolf howling at a crescent moon, atmospheric, wildlife",outputs/normal/494.png,0.9586510062217712,26.4411563873291,0.208740234375
+495,"A cyberpunk hacker's den, multiple monitors, wires everywhere, sci-fi",outputs/normal/495.png,0.702398419380188,26.621774673461914,0.286376953125
+496,"A majestic unicorn in a sunlit glade, fantasy, pure, magical",outputs/normal/496.png,1.5312583446502686,28.700637817382812,0.357666015625
+497,"A photorealistic render of a classic Polaroid camera, vintage, detailed",outputs/normal/497.png,1.370253324508667,35.071598052978516,0.236083984375
+498,"An astronaut taking a selfie with a planet in the background, sci-fi, fun",outputs/normal/498.png,0.8616976141929626,28.033706665039062,0.318115234375
+499,"A haunted lighthouse on a stormy night, ghostly light, horror, atmospheric",outputs/normal/499.png,-0.510280191898346,28.860607147216797,0.255615234375
+500,"A queen sitting on her throne, looking thoughtfully at her kingdom, fantasy",outputs/normal/500.png,1.3526554107666016,24.875104904174805,0.292724609375

@@ -10,7 +10,11 @@ pip install -r requirements.txt
 
 And follow the steps of [HPSv2](https://github.com/tgxs002/HPSv2?tab=readme-ov-file#quick-start) to install HPSv2 locally.
 
-## prompts.csv
+## Prompts
+
+There are two files `./propmts/normal_prompts.csv` and `./prompts/modified_prompts.csv`.
+
+`normal_prompts` are used as base prompts, and `modified_prompts` are modified from those base prompts, to get similar but different prompts.
 
 fields: id, prompt
 
@@ -26,13 +30,12 @@ python3 gen_images.py
 
 Use `runwayml/stable-diffusion-v1-5` to generate normal images.
 
-Images generated are saved in folder `./output_img/`.
+Images generated are saved in folder `./outputs/normal/` and `./outputs/modified/`.
 
 ### Parameters
 - num_inference_steps = 30
 - guidance_scale = 7.5
 - height, width = 512, 512
-- seed = 140122
 
 ## Evaluate scores of images
 
@@ -45,7 +48,7 @@ Scoring methods used:
 - CLIP (model = `openai/clip-vit-large-patch14`)
 - HPS (version = `v2.1`)
 
-The result is saved in `./scores.csv`.
+The result is saved in `./scores/normal.csv` and `./scores/modified.csv`.
 
 
 ## Show all scores
@@ -54,10 +57,10 @@ The result is saved in `./scores.csv`.
 python3 show_scores.py
 ```
 
-Show the following informations for each prompt in `prompts.csv`:
+Show the following informations for each image:
 - id
 - prompt
-- path of generated image
+- path of image
 - ImageReward score
 - CLIP score
 - HPS score
